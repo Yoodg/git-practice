@@ -5,12 +5,8 @@ manager: Sebastian
 coach: Shirley
 
 members:
-- Violet
-- Stella
-- Anthony
-- Freddie
-<<<<<<< HEAD
-- Arachi
-=======
-- Maruchi
->>>>>>> bd02e0d (Add Maruchi to Panthers)
+  - Violet
+  - Stella
+  - Anthony
+  - Freddie
+  - Maruchi
